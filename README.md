@@ -1,5 +1,5 @@
 # Nature Tours
-
+A simple Website Landing page
 
 
 ## Built With
@@ -9,7 +9,7 @@
 
 ## Live Demo Link
 
-[Live Link]()
+[Live Link](https://osong-michael.github.io/Nature-Tours/)
 
 
 ## Author
